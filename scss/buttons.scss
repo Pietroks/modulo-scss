@@ -1,0 +1,8 @@
+.btn {
+    padding: 5px 30px;
+    border-radius: var(--btn-radius);
+    &.btn-laranja {
+        background-color: var(--color-tercearia);
+        color: var(--cor-branca);
+    }
+}
